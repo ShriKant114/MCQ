@@ -1,0 +1,287 @@
+{
+  "topics": [
+    {
+      "topicName": "Blockchain",
+      "questions": [
+        {
+          "id": 1,
+          "q": "Quantum computer ki basic unit kya hai?",
+          "ans": "Qubit"
+        },
+        {
+          "id": 2,
+          "q": "Classical computer ki unit kya hai?",
+          "ans": "Bit"
+        },
+        {
+          "id": 3,
+          "q": "Qubit ki multiple states wali property kya hai?",
+          "ans": "Superposition"
+        },
+        {
+          "id": 4,
+          "q": "Qubits ke aapsi judav ko kya kehte hain?",
+          "ans": "Entanglement"
+        },
+        {
+          "id": 5,
+          "q": "Quantum computing kis theory par aadharit hai?",
+          "ans": "Quantum Mechanics"
+        },
+        {
+          "id": 6,
+          "q": "Quantum gates kis par kaam karte hain?",
+          "ans": "Qubit"
+        },
+        {
+          "id": 7,
+          "q": "Measurement ke baad kya milta hai?",
+          "ans": "Output"
+        },
+        {
+          "id": 8,
+          "q": "Quantum system me disturbance ko kya kehte hain?",
+          "ans": "Noise"
+        },
+        {
+          "id": 9,
+          "q": "Quantum computing ka mukhya fayda kya hai?",
+          "ans": "Speed"
+        },
+        {
+          "id": 10,
+          "q": "Quantum computing me security field kya hai?",
+          "ans": "Cryptography"
+        },
+        {
+          "id": 11,
+          "q": "Parallel processing kis se possible hai?",
+          "ans": "Superposition"
+        },
+        {
+          "id": 12,
+          "q": "Quantum state badalne ke liye kya use hota hai?",
+          "ans": "Gate"
+        },
+        {
+          "id": 13,
+          "q": "Quantum algorithm ka example kya hai?",
+          "ans": "Shor"
+        },
+        {
+          "id": 14,
+          "q": "Quantum computer ko kis temperature par rakha jata hai?",
+          "ans": "Low"
+        },
+        {
+          "id": 15,
+          "q": "Qubit kis ka combination hai?",
+          "ans": "0+1"
+        },
+        {
+          "id": 16,
+          "q": "Quantum computing ka use kis me hota hai?",
+          "ans": "Optimization"
+        },
+        {
+          "id": 17,
+          "q": "Data protection ke liye kya use hota hai?",
+          "ans": "Encryption"
+        },
+        {
+          "id": 18,
+          "q": "Classical limit kya hai?",
+          "ans": "Bit"
+        },
+        {
+          "id": 19,
+          "q": "Quantum data kis me store hota hai?",
+          "ans": "Qubit"
+        },
+        {
+          "id": 20,
+          "q": "Interference kis se juda hai?",
+          "ans": "Wave"
+        },
+        {
+          "id": 21,
+          "q": "Quantum computing ka use medicine me kis liye hota hai?",
+          "ans": "Discovery"
+        },
+        {
+          "id": 22,
+          "q": "Entanglement me kya hota hai?",
+          "ans": "Link"
+        },
+        {
+          "id": 23,
+          "q": "Quantum system kis science se juda hai?",
+          "ans": "Physics"
+        },
+        {
+          "id": 24,
+          "q": "Quantum computing kis generation ki technology hai?",
+          "ans": "Future"
+        },
+        {
+          "id": 25,
+          "q": "Qubit ko measure karne par kya milta hai?",
+          "ans": "0/1"
+        },
+        {
+          "id": 26,
+          "q": "Quantum computing me probability kis se judi hai?",
+          "ans": "State"
+        },
+        {
+          "id": 27,
+          "q": "Quantum computing kis field ko badal sakta hai?",
+          "ans": "Computing"
+        },
+        {
+          "id": 28,
+          "q": "Quantum computing ka use finance me kis liye hota hai?",
+          "ans": "Analysis"
+        },
+        {
+          "id": 29,
+          "q": "Quantum error ko kya kehte hain?",
+          "ans": "Noise"
+        },
+        {
+          "id": 30,
+          "q": "Quantum computing ka main challenge kya hai?",
+          "ans": "Stability"
+        },
+        {
+          "id": 31,
+          "q": "Quantum gate ka kaam kya hai?",
+          "ans": "Operation"
+        },
+        {
+          "id": 32,
+          "q": "Quantum system me data kis form me hota hai?",
+          "ans": "State"
+        },
+        {
+          "id": 33,
+          "q": "Entangled particles kis tarah behave karte hain?",
+          "ans": "Same"
+        },
+        {
+          "id": 34,
+          "q": "Quantum computing kis type ka processing karta hai?",
+          "ans": "Parallel"
+        },
+        {
+          "id": 35,
+          "q": "Quantum computer ki speed kaisi hoti hai?",
+          "ans": "Fast"
+        },
+        {
+          "id": 36,
+          "q": "Quantum computing me randomness kis se aata hai?",
+          "ans": "Measurement"
+        },
+        {
+          "id": 37,
+          "q": "Quantum system kis law ko follow karta hai?",
+          "ans": "Quantum"
+        },
+        {
+          "id": 38,
+          "q": "Quantum computing ka use AI me kis liye hota hai?",
+          "ans": "Enhancement"
+        },
+        {
+          "id": 39,
+          "q": "Quantum bit ko short me kya kehte hain?",
+          "ans": "Qubit"
+        },
+        {
+          "id": 40,
+          "q": "Quantum computing ka sabse important concept kya hai?",
+          "ans": "Superposition"
+        },
+        {
+          "id": 41,
+          "q": "Quantum computing me data security kis se judi hai?",
+          "ans": "Cryptography"
+        },
+        {
+          "id": 42,
+          "q": "Quantum computing ka use kis industry me hota hai?",
+          "ans": "All"
+        },
+        {
+          "id": 43,
+          "q": "Quantum system ka base kya hai?",
+          "ans": "Qubit"
+        },
+        {
+          "id": 44,
+          "q": "Quantum computing kise replace kar sakta hai?",
+          "ans": "Classical"
+        },
+        {
+          "id": 45,
+          "q": "Quantum computing ka use logistics me kis liye hota hai?",
+          "ans": "Optimization"
+        },
+        {
+          "id": 46,
+          "q": "Quantum computing ka sabse bada benefit kya hai?",
+          "ans": "Speed"
+        },
+        {
+          "id": 47,
+          "q": "Quantum computing ka drawback kya hai?",
+          "ans": "Cost"
+        },
+        {
+          "id": 48,
+          "q": "Quantum computing me cooling kyon jaruri hai?",
+          "ans": "Temperature"
+        },
+        {
+          "id": 49,
+          "q": "Quantum computing kis tarah ki problems solve karta hai?",
+          "ans": "Complex"
+        },
+        {
+          "id": 50,
+          "q": "Quantum computing future me kya banega?",
+          "ans": "Revolution"
+        }
+      ]
+    },
+    {
+      "topicName": "Java",
+      "questions": [
+        {
+          "id": 61,
+          "q": "Java ka full form kya hai?",
+          "options": [
+            "Just Another Very Amazing Language",
+            "Java Advanced Virtual Architecture",
+            "Java koi full form nahi hai",
+            "Java Algorithm Visualization Architecture"
+          ],
+          "ans": "Java koi full form nahi hai"
+        },
+        {
+          "id": 62,
+          "q": "Java mein 'public static void main' ka purpose kya hai?",
+          "options": [
+            "Random function",
+            "Program ka entry point",
+            "Memory allocate karna",
+            "Database connection"
+          ],
+          "ans": "Program ka entry point"
+        }
+      ]
+    }
+  ],
+  "_format": "JSON Format: topics array contains topic objects with topicName (string) and questions array. Each question has id (number), q (string - question), ans (string - answer), and optional options array"
+}
