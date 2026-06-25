@@ -281,7 +281,263 @@
           "ans": "Program ka entry point"
         }
       ]
+    },
+
+    {
+  "topicName": "Laravel",
+  "questions": [
+    {
+      "id": 1,
+      "q": "What is Laravel?",
+      "ans": "A PHP Framework"
+    },
+    {
+      "id": 2,
+      "q": "Which architecture does Laravel follow?",
+      "ans": "MVC"
+    },
+    {
+      "id": 3,
+      "q": "What is the default route file for web routes?",
+      "ans": "routes/web.php"
+    },
+    {
+      "id": 4,
+      "q": "What is the default route file for API routes?",
+      "ans": "routes/api.php"
+    },
+    {
+      "id": 5,
+      "q": "Which command starts the Laravel development server?",
+      "ans": "php artisan serve"
+    },
+    {
+      "id": 6,
+      "q": "Which command creates a controller?",
+      "ans": "php artisan make:controller"
+    },
+    {
+      "id": 7,
+      "q": "Which command creates a model?",
+      "ans": "php artisan make:model"
+    },
+    {
+      "id": 8,
+      "q": "Which command runs migrations?",
+      "ans": "php artisan migrate"
+    },
+    {
+      "id": 9,
+      "q": "Which command rolls back the last migration?",
+      "ans": "php artisan migrate:rollback"
+    },
+    {
+      "id": 10,
+      "q": "Which file stores environment variables?",
+      "ans": ".env"
+    },
+    {
+      "id": 11,
+      "q": "What is Blade?",
+      "ans": "Laravel Template Engine"
+    },
+    {
+      "id": 12,
+      "q": "What is Eloquent?",
+      "ans": "ORM"
+    },
+    {
+      "id": 13,
+      "q": "What does ORM stand for?",
+      "ans": "Object Relational Mapping"
+    },
+    {
+      "id": 14,
+      "q": "Which folder contains Blade views?",
+      "ans": "resources/views"
+    },
+    {
+      "id": 15,
+      "q": "Which folder contains controllers?",
+      "ans": "app/Http/Controllers"
+    },
+    {
+      "id": 16,
+      "q": "Which folder contains models?",
+      "ans": "app/Models"
+    },
+    {
+      "id": 17,
+      "q": "Which folder contains middleware?",
+      "ans": "app/Http/Middleware"
+    },
+    {
+      "id": 18,
+      "q": "Which helper is used to return a view?",
+      "ans": "view()"
+    },
+    {
+      "id": 19,
+      "q": "Which helper is used to redirect users?",
+      "ans": "redirect()"
+    },
+    {
+      "id": 20,
+      "q": "Which method retrieves all records?",
+      "ans": "all()"
+    },
+    {
+      "id": 21,
+      "q": "Which method finds a record by ID?",
+      "ans": "find()"
+    },
+    {
+      "id": 22,
+      "q": "Which method inserts a new record?",
+      "ans": "create()"
+    },
+    {
+      "id": 23,
+      "q": "Which method deletes a record by ID?",
+      "ans": "destroy()"
+    },
+    {
+      "id": 24,
+      "q": "Which Blade directive prints a variable?",
+      "ans": "{{ }}"
+    },
+    {
+      "id": 25,
+      "q": "Which Blade directive is used for loops?",
+      "ans": "@foreach"
+    },
+    {
+      "id": 26,
+      "q": "Which Blade directive is used for conditions?",
+      "ans": "@if"
+    },
+    {
+      "id": 27,
+      "q": "Which directive protects forms from CSRF attacks?",
+      "ans": "@csrf"
+    },
+    {
+      "id": 28,
+      "q": "What is Middleware?",
+      "ans": "Request Filter"
+    },
+    {
+      "id": 29,
+      "q": "What is Migration?",
+      "ans": "Database Version Control"
+    },
+    {
+      "id": 30,
+      "q": "What is Seeder?",
+      "ans": "Initial Data Insertion"
+    },
+    {
+      "id": 31,
+      "q": "What is Factory?",
+      "ans": "Fake Data Generator"
+    },
+    {
+      "id": 32,
+      "q": "Which command creates a migration?",
+      "ans": "php artisan make:migration"
+    },
+    {
+      "id": 33,
+      "q": "Which command creates a seeder?",
+      "ans": "php artisan make:seeder"
+    },
+    {
+      "id": 34,
+      "q": "Which command creates a factory?",
+      "ans": "php artisan make:factory"
+    },
+    {
+      "id": 35,
+      "q": "Which command creates middleware?",
+      "ans": "php artisan make:middleware"
+    },
+    {
+      "id": 36,
+      "q": "Which class handles HTTP requests?",
+      "ans": "Controller"
+    },
+    {
+      "id": 37,
+      "q": "Which class communicates with the database?",
+      "ans": "Model"
+    },
+    {
+      "id": 38,
+      "q": "Which HTTP method retrieves data?",
+      "ans": "GET"
+    },
+    {
+      "id": 39,
+      "q": "Which HTTP method submits data?",
+      "ans": "POST"
+    },
+    {
+      "id": 40,
+      "q": "Which package manager does Laravel use?",
+      "ans": "Composer"
+    },
+    {
+      "id": 41,
+      "q": "Which command installs Composer dependencies?",
+      "ans": "composer install"
+    },
+    {
+      "id": 42,
+      "q": "Which command updates Composer dependencies?",
+      "ans": "composer update"
+    },
+    {
+      "id": 43,
+      "q": "What is the default database supported by Laravel?",
+      "ans": "MySQL"
+    },
+    {
+      "id": 44,
+      "q": "Which method validates incoming requests?",
+      "ans": "validate()"
+    },
+    {
+      "id": 45,
+      "q": "Which helper returns JSON responses?",
+      "ans": "response()->json()"
+    },
+    {
+      "id": 46,
+      "q": "Which middleware protects authenticated routes?",
+      "ans": "auth"
+    },
+    {
+      "id": 47,
+      "q": "Which Artisan command clears application cache?",
+      "ans": "php artisan cache:clear"
+    },
+    {
+      "id": 48,
+      "q": "Which Artisan command clears route cache?",
+      "ans": "php artisan route:clear"
+    },
+    {
+      "id": 49,
+      "q": "Which Artisan command clears configuration cache?",
+      "ans": "php artisan config:clear"
+    },
+    {
+      "id": 50,
+      "q": "Which Artisan command lists all available routes?",
+      "ans": "php artisan route:list"
     }
+  ]
+}
   ],
   "_format": "JSON Format: topics array contains topic objects with topicName (string) and questions array. Each question has id (number), q (string - question), ans (string - answer), and optional options array"
 }
