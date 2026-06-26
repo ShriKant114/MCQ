@@ -284,6 +284,312 @@
     },
 
     {
+  "topicName": "Machine Learning and AI",
+  "questions": [
+    {
+      "id": 1,
+      "q": "Which technique is used to predict continuous data in machine learning?",
+      "ans": "Regression"
+    },
+    {
+      "id": 2,
+      "q": "What is the process of bringing data features to a common scale called?",
+      "ans": "Normalization"
+    },
+    {
+      "id": 3,
+      "q": "What type of learning uses labeled data for training?",
+      "ans": "Supervised Learning"
+    },
+    {
+      "id": 4,
+      "q": "Finding hidden patterns in unlabeled data is called what?",
+      "ans": "Unsupervised Learning"
+    },
+    {
+      "id": 5,
+      "q": "What is the technique to artificially increase the amount of training data?",
+      "ans": "Data Augmentation"
+    },
+    {
+      "id": 6,
+      "q": "Presenting data in the form of graphs or charts is known as?",
+      "ans": "Data Visualization"
+    },
+    {
+      "id": 7,
+      "q": "Which mathematical foundation in ML deals with vectors and matrices?",
+      "ans": "Linear Algebra"
+    },
+    {
+      "id": 8,
+      "q": "What optimization technique is used to minimize the error output?",
+      "ans": "Convex Optimization"
+    },
+    {
+      "id": 9,
+      "q": "What is the statistical method used to test the validity of a claim?",
+      "ans": "Hypothesis Testing"
+    },
+    {
+      "id": 10,
+      "q": "Fixing missing values and cleaning raw data is called?",
+      "ans": "Data Preprocessing"
+    },
+    {
+      "id": 11,
+      "q": "What is the mathematics of the occurrence of an event called?",
+      "ans": "Probability"
+    },
+    {
+      "id": 12,
+      "q": "What describes the shape of the spread of data (e.g., bell-curve)?",
+      "ans": "Data Distribution"
+    },
+    {
+      "id": 13,
+      "q": "Which parameter determines the importance of an input in a neural network?",
+      "ans": "Weight"
+    },
+    {
+      "id": 14,
+      "q": "What makes a neural network capable of learning non-linear patterns?",
+      "ans": "Activation Function"
+    },
+    {
+      "id": 15,
+      "q": "Which activation function outputs 0 if the input is negative?",
+      "ans": "ReLU"
+    },
+    {
+      "id": 16,
+      "q": "Which function measures the difference between predicted and actual output?",
+      "ans": "Loss Function"
+    },
+    {
+      "id": 17,
+      "q": "Which algorithm updates weights to minimize the error?",
+      "ans": "Gradient Descent"
+    },
+    {
+      "id": 18,
+      "q": "What is the process of sending the error backward from output to input called?",
+      "ans": "Backpropagation"
+    },
+    {
+      "id": 19,
+      "q": "What technique randomly turns off neurons to prevent overfitting?",
+      "ans": "Dropout"
+    },
+    {
+      "id": 20,
+      "q": "What is the problem where gradients become too small in deep networks?",
+      "ans": "Vanishing Gradient Problem"
+    },
+    {
+      "id": 21,
+      "q": "Which network reconstructs its input data as the output?",
+      "ans": "Autoencoder"
+    },
+    {
+      "id": 22,
+      "q": "What technique normalizes the inputs of each layer to speed up training?",
+      "ans": "Batch Normalization"
+    },
+    {
+      "id": 23,
+      "q": "What technique gives direction and speed to gradient descent?",
+      "ans": "Momentum"
+    },
+    {
+      "id": 24,
+      "q": "The learning rate of a model is an example of what kind of parameter?",
+      "ans": "Hyperparameter"
+    },
+    {
+      "id": 25,
+      "q": "Which regularization technique penalizes based on absolute error?",
+      "ans": "L1 Regularization"
+    },
+    {
+      "id": 26,
+      "q": "Which activation function limits the output between 0 and 1?",
+      "ans": "Sigmoid"
+    },
+    {
+      "id": 27,
+      "q": "Which neural network is most suitable for image processing?",
+      "ans": "Convolutional Neural Network (CNN)"
+    },
+    {
+      "id": 28,
+      "q": "Which layer in a CNN reduces the dimensions of an image?",
+      "ans": "Pooling Layer"
+    },
+    {
+      "id": 29,
+      "q": "What is adding extra pixels (0s) at the edges of a feature map called?",
+      "ans": "Padding"
+    },
+    {
+      "id": 30,
+      "q": "What defines the number of steps a filter shifts over an image?",
+      "ans": "Stride"
+    },
+    {
+      "id": 31,
+      "q": "What is the process of converting multi-dimensional data into a 1D array called?",
+      "ans": "Flattening"
+    },
+    {
+      "id": 32,
+      "q": "What is the final fully connected layer in a CNN typically called?",
+      "ans": "Dense Layer"
+    },
+    {
+      "id": 33,
+      "q": "What is using a pre-trained model for a new task known as?",
+      "ans": "Transfer Learning"
+    },
+    {
+      "id": 34,
+      "q": "What is the technique where a model learns from just one example per class?",
+      "ans": "One-shot Learning"
+    },
+    {
+      "id": 35,
+      "q": "Which convolution operation is used to reduce the number of input channels (depth)?",
+      "ans": "1x1 Convolution"
+    },
+    {
+      "id": 36,
+      "q": "Which network architecture applies different sized filters within the same layer?",
+      "ans": "Inception Network"
+    },
+    {
+      "id": 37,
+      "q": "What is the process of removing unnecessary features from data called?",
+      "ans": "Dimensionality Reduction"
+    },
+    {
+      "id": 38,
+      "q": "Which deep learning library was developed by Google?",
+      "ans": "TensorFlow"
+    },
+    {
+      "id": 39,
+      "q": "Which high-level API runs on top of TensorFlow to make model building easier?",
+      "ans": "Keras"
+    },
+    {
+      "id": 40,
+      "q": "Which neural network is designed for sequential data like text or time-series?",
+      "ans": "Recurrent Neural Network (RNN)"
+    },
+    {
+      "id": 41,
+      "q": "Which cell solves the long-term dependency problem in RNNs?",
+      "ans": "LSTM (Long Short-Term Memory)"
+    },
+    {
+      "id": 42,
+      "q": "What is the lighter version of LSTM that has fewer gates?",
+      "ans": "GRU (Gated Recurrent Unit)"
+    },
+    {
+      "id": 43,
+      "q": "Which score is used to evaluate the quality of machine translation?",
+      "ans": "BLEU Score"
+    },
+    {
+      "id": 44,
+      "q": "Which model focuses on the most important words in a sequence during translation?",
+      "ans": "Attention Model"
+    },
+    {
+      "id": 45,
+      "q": "Which search algorithm finds the best sequences in translation tasks?",
+      "ans": "Beam Search"
+    },
+    {
+      "id": 46,
+      "q": "Which type of learning is based on a system of rewards and penalties?",
+      "ans": "Reinforcement Learning (RL)"
+    },
+    {
+      "id": 47,
+      "q": "What is the mathematical framework for modeling states and rewards in RL?",
+      "ans": "Markov Decision Process (MDP)"
+    },
+    {
+      "id": 48,
+      "q": "Which mathematical equation is used to solve MDPs?",
+      "ans": "Bellman Equation"
+    },
+    {
+      "id": 49,
+      "q": "Which algorithm learns action-values directly without an explicit policy?",
+      "ans": "Q-Learning"
+    },
+    {
+      "id": 50,
+      "q": "Which RL model optimizes both the policy and the value function simultaneously?",
+      "ans": "Actor-Critic Model"
+    },
+    {
+      "id": 51,
+      "q": "Which is an on-policy reinforcement learning algorithm?",
+      "ans": "SARSA"
+    },
+    {
+      "id": 52,
+      "q": "Which method iteratively updates values to find the optimal policy?",
+      "ans": "Value Iteration"
+    },
+    {
+      "id": 53,
+      "q": "Which algorithm draws the optimal hyperplane to separate classes of data?",
+      "ans": "Support Vector Machine (SVM)"
+    },
+    {
+      "id": 54,
+      "q": "Which learning method is based on calculating prior probabilities?",
+      "ans": "Bayesian Learning"
+    },
+    {
+      "id": 55,
+      "q": "What is the field that enables computers to understand human language?",
+      "ans": "Natural Language Processing (NLP)"
+    },
+    {
+      "id": 56,
+      "q": "What is the technology used to convert or process human audio into text?",
+      "ans": "Speech Processing"
+    },
+    {
+      "id": 57,
+      "q": "What is the field that allows computers to understand images and videos?",
+      "ans": "Computer Vision"
+    },
+    {
+      "id": 58,
+      "q": "What is the name of the famous 14-million image dataset used for object recognition?",
+      "ans": "ImageNet"
+    },
+    {
+      "id": 59,
+      "q": "What trick is used in SVM to handle non-linearly separable data?",
+      "ans": "Kernel Trick"
+    },
+    {
+      "id": 60,
+      "q": "Which famous CNN model won the 2012 ImageNet competition?",
+      "ans": "AlexNet"
+    }
+  ]
+},
+
+    {
   "topicName": "Laravel",
   "questions": [
     {
